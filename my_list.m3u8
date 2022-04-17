@@ -1,0 +1,168 @@
+﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",5 канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",TV1000 Русское кино
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",TV1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TV1000 Comedy HD
+http://new-pro.tv:8080/Fernando/123321/20238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТВ3
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Домашний
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Россия Культура
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Россия 1 +4
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_4/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Россия 24
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Россия 1 Самара
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_ROSSIA1/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Первый СССР
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ТНТ
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТВ Центр,ТВЦ Москва
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",2x2 HD
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",aramount Comedy HD
+http://cdntv.online/high/wvj6futh2r/406.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Disney
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Cartoon Network HD
+http://new-pro.tv:8080/Fernando/123321/20285?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Karusel
+http://new-pro.tv:8080/Fernando/123321/300752?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MULT
+http://new-pro.tv:8080/Fernando/123321/300779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MULT I MUZIKA
+http://new-pro.tv:8080/Fernando/123321/300780?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Mama
+http://new-pro.tv:8080/Fernando/123321/20211?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/20218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Мультиландия (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png" group-title="Entertainment",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://new-pro.tv:8080/Fernando/123321/20306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Auto Plus
+http://new-pro.tv:8080/Fernando/123321/20179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Boks TV
+http://new-pro.tv:8080/Fernando/123321/20163?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Bollywood HD
+http://new-pro.tv:8080/Fernando/123321/20178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",DORAMA
+http://new-pro.tv:8080/Fernando/123321/300730?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://new-pro.tv:8080/Fernando/123321/20312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Che
+http://new-pro.tv:8080/Fernando/123321/20220?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",E TV
+http://new-pro.tv:8080/Fernando/123321/300732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/EuroNews.png" group-title="Undefined",EuroNews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Indijskoe Kino
+http://new-pro.tv:8080/Fernando/123321/300748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Istoriya
+http://new-pro.tv:8080/Fernando/123321/300749?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",JIVI
+http://new-pro.tv:8080/Fernando/123321/300750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Kinomix
+http://new-pro.tv:8080/Fernando/123321/179694?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MIR SERIALA
+http://new-pro.tv:8080/Fernando/123321/300774?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MORSKOI
+http://new-pro.tv:8080/Fernando/123321/179686?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",MTV RUSSIA
+http://new-pro.tv:8080/Fernando/123321/300778?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Mtv Hits HD
+http://new-pro.tv:8080/Fernando/123321/20279?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",NOSTALGIJA
+http://new-pro.tv:8080/Fernando/123321/300787?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nano,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/20273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ohotnik i Rybolov HD
+http://new-pro.tv:8080/Fernando/123321/300792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Planeta
+rtsp://stream.teracomm.bg/planeta?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Undefined",RU | TV BRICS Russia,TV BRICS Russia
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Russkiy Detektiv
+http://new-pro.tv:8080/Fernando/123321/300813?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",SOVERSHENNO SEKRETNO
+http://new-pro.tv:8080/Fernando/123321/300823?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TNT_EXCLUSIV,ТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",TV-XXI
+http://new-pro.tv:8080/Fernando/123321/20256?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Viasat History HD
+http://new-pro.tv:8080/Fernando/123321/20315?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Vremya
+http://new-pro.tv:8080/Fernando/123321/300841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ZOOPARK
+http://new-pro.tv:8080/Fernando/123321/300754?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Zhivaya Planeta
+http://new-pro.tv:8080/Fernando/123321/20192?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Zvezda
+http://new-pro.tv:8080/Fernando/123321/20197?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://www.guberniatv.ru/img/logo.png" group-title="Undefined",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ДИАЛОГИ О РЫБАЛКЕ
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Religious",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="General;Undefined",Красная линия,Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Миллет
+http://live.trkmillet.ru/millet/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Москва Доверие,Москва. Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Муз союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="General",Новый мир
+http://persik.by/stream/8682/252987/10231.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",ЮТВ (Чебоксары)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",KINOSVIDANIE
+http://new-pro.tv:8080/Fernando/123321/300758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Дом кино (576p)
+http://91.185.3.218:4000/play/606?checkedby:iptvcat.com
+
